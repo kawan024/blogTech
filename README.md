@@ -1,0 +1,2 @@
+# blogTech
+Sobre o blogTech
